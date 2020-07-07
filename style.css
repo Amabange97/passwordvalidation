@@ -37,7 +37,6 @@ p {
 }
 
 .container p:nth-child(1) {
-    /* margin: 0 300px; */
     width: 400px;
     font-weight: 700;
     text-transform: capitalize;
